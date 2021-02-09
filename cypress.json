@@ -1,0 +1,10 @@
+{
+    "baseUrl":"https://facebook.com",
+    "env":{
+            "f_user": "fakeUserMock",
+            "f_pass":"fair&$qure",
+            "f_firstname":"Bryan",
+            "f_lastname":"gonzales",
+            "f_reg_email__":"ctovar@abexus.com"
+    }
+}
